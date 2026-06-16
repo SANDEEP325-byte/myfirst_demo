@@ -1,4 +1,4 @@
 # myfirst_demo
 This is my first Git Repository.
 <br>
-Author-Sandeep Padua
+Author-Sandeep (my demo)
